@@ -49,3 +49,5 @@ jobs:
       - name: Deploy to ECS
         run: |
           echo "Deploying application to production ECS cluster"
+
+          
